@@ -6,3 +6,11 @@
 .screen-shot {
     margin-top: 30px;
 }
+hr {
+    border: none;
+    border-top: 3px double powderblue;
+    color:red;
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+}
