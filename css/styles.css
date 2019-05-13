@@ -8,9 +8,13 @@
 }
 hr {
     border: none;
-    border-top: 3px double powderblue;
+    border-top: 3px double rgb(176, 189, 230);
     color:red;
     overflow: visible;
     text-align: center;
     height: 5px;
 }
+.post-preview > .post-meta {
+    
+    color: rgb(130, 43, 156);
+  }
